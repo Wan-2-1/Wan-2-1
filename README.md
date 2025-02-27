@@ -1,4 +1,4 @@
-# Wan 2.1: Revolutionary Open-Source Video Generation Model Pushing AI Boundaries
+# Wan 2.1 (Wanx by alibaba): Revolutionary Open-Source Video Generation Model Pushing AI Boundaries
 
 ![gallery](https://github.com/user-attachments/assets/4ba2bdeb-fec5-4d08-a6cf-6a3fead0071f)
 
